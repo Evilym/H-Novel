@@ -3,5 +3,6 @@ theme: jekyll-theme-modernist
 ## Basic
 title: 黄色废料
 description: 黄色废料,色情幻想,yy小说
- 
+date_format: MMM D YYYY
+time_format: H:mm:ss
 show_downloads: "true"
