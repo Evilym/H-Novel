@@ -1,6 +1,6 @@
 # H novel
 
-
+# [在线阅读](https://evilym.github.io/H-Novel/)
 
 讲台上，数学老师在讲台上唾沫横飞的讲着课。
 
